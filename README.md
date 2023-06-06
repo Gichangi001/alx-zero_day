@@ -1,1 +1,1 @@
-My first readme
+welcome to ALX . HOME OF CODING 
